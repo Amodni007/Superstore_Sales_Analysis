@@ -91,7 +91,7 @@ Designed an interactive dashboard summarizing business performance.
 ##  How to Run This Project
 
 - Open `.pbix` file in Power BI Desktop to explore dashboard  
-- Review Excel pivots in `Day3_LossAnalysis_Superstore.xlsx`  
+- Review Excel pivots in `EDA_Loss_Clean_Superstore.xlsx`  
 - Use Jupyter or VS Code to run Python notebooks for EDA
 
 ---
